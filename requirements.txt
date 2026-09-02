@@ -1,0 +1,10 @@
+﻿pyautogui
+pywin32
+psutil
+requests
+websockets
+pyttsx3
+sounddevice
+pydub
+keyboard
+SpeechRecognition
